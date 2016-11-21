@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- pressed -->
+    <item android:drawable="@color/setting_item_focus" android:state_pressed="true"/>
+    <!-- focused -->
+    <item android:drawable="@color/setting_item_focus" android:state_focused="true"/>
+    <!-- default -->
+    <item android:drawable="@color/setting_item"/>
+
+</selector>

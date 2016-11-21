@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TSUTAYA UX</string>
+    <string name="splash_text">TSUTAYA Passport</string>
+    <string name="launch_next">next</string>
+
+    <string name="cancel">キャンセル</string>
+    <string name="tsutaya_search_hint">TSUTAYAの在庫を探す</string>
+    <string name="tab_top">ディスカバー</string>
+    <string name="tab_coupon">クーポン</string>
+    <string name="tab_favourite">マイリスト</string>
+    <string name="tab_setting">設定</string>
+
+    <string name="guide_main_text">あなたの見たいがきっと見つかる</string>
+    <string name="guide_dorama_text">好みのジャンルを登録して\n新しい出会いを発見</string>
+    <string name="guide_locale_text1">借りたい作品を見つけたら\nその場で鳥置ける</string>
+    <string name="guide_locale_text2">TSUTAYA　借り放題のご利用店舗を選択</string>
+
+    <string name="setting_text1">お知らせ</string>
+    <string name="setting_text2">お客様情報</string>
+    <string name="setting_text3">ジャンル選択</string>
+    <string name="setting_text4">アプリ内の店舗設定</string>
+    <string name="setting_text5">通知設定</string>
+    <string name="setting_text6">よくあるご質問</string>
+    <string name="setting_text7">TSUTAYA Passportサービス利用規約</string>
+    <string name="setting_text8">T会員規約</string>
+    <string name="setting_text9">TSUTAYA DISCASサービス利用規約</string>
+    <string name="setting_text10">TSUTAYA　借り放題利用規約</string>
+    <string name="setting_text11">個人情報の取り扱い</string>
+    <string name="setting_text12">個人情報保護方針</string>
+    <string name="setting_text13">特定商取引法に基づく表示</string>
+    <string name="setting_text14">バージョン情報</string>
+    <string name="setting_text15">お知らせ</string>
+
+
+</resources>

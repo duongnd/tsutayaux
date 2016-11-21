@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dorama_category" translatable="false">
+        <item>洋઺</item>
+        <item>邦઺</item>
+        <item>઺、ਲਗTVドラマ</item>
+        <item>邦઺TVドラマ</item>
+        <item>アジアTVドラマ</item>
+        <item>アニメ</item>
+        <item>キッズ</item>
+    </string-array>
+
+</resources>
